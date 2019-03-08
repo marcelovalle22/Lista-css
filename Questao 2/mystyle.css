@@ -1,0 +1,44 @@
+#text1:link{
+    text-decoration: none;
+}
+#text2:link{
+    text-decoration: overline;
+}
+#text2:hover{
+    text-decoration: line-through;
+}
+#text2:visited{
+    text-decoration: underline;
+}
+#text3:link{
+    color:  blue;
+}
+#text3:hover{
+    color: black;
+    text-decoration: underline;
+}
+#text4:link{
+    border: solid black;
+    background-color: green;
+    color: yellow
+}
+#text4:hover{
+    border: dotted goldenrod;
+    background-color: green;
+    color: blue
+}
+#text5:link{
+    text-decoration: none;
+    color: brown;
+}
+#text5:visited{
+    font-style: italic;
+    font-weight: bold;
+    color: gold
+}
+#text5:hover{
+    text-decoration: underline;
+}
+#text5:active{
+    color: maroon;
+}

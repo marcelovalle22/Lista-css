@@ -1,0 +1,9 @@
+div:hover img{ 
+    border: 5px solid red
+}
+div:hover p{ 
+    text-decoration: underline
+}
+p{
+    color: red
+}

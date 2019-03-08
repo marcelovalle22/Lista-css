@@ -1,0 +1,12 @@
+div{
+    width: 500px;
+    height: 500px;
+    background: url(imagem1.png) no-repeat
+}
+
+div:hover{
+    background: url(imagem2.png)no-repeat;
+    width: 500px;
+    height: 500px;
+    
+}

@@ -1,0 +1,26 @@
+li{
+    display: inline;
+    
+
+}
+a{
+    text-decoration: none
+}
+a:hover{
+    text-decoration: underline
+}
+#home{ 
+    color:orange
+}
+#sport{
+    color: blue
+}
+#sport:hover{
+    text-decoration: overline
+}
+#entertaiment{
+    color: red
+}
+#videos{
+    color: green
+}
